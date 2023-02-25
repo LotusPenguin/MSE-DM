@@ -1,0 +1,143 @@
+mse version: 2.0.0
+short name: Duel Masters
+full name: Joe Era Frame
+icon: icon.png
+position hint: 444
+installer group: duel-masters/game
+
+
+init script: include file: script
+
+card field:
+	type: choice
+	editable: false
+	name: background
+	initial:background
+	choice: background
+
+card field:
+	type: choice
+	name: cost
+	editable: false
+	initial:cost
+	choice: cost
+
+card field:
+	type: text
+	name: cost_text
+
+card field:
+	type: choice
+	name: kingdom
+	editable: false
+	initial:kingdom
+	choice: kingdom
+
+card field:
+	type: text
+	name: kingdom_text
+	script: input_filter(value)
+
+card field:
+	type: choice
+	name: type
+	editable: false
+	initial:type
+	choice: type
+
+card field:
+	type: text
+	name: type_text
+	script: input_filter_2(value)
+
+card field:
+	type: choice
+	name: power
+	editable: false
+	initial: power
+	choice: power
+
+card field:
+	type: text
+	name: power_text
+	script: input_filter_3(value)
+
+card field:
+	type: text
+	name: power_number
+
+card field:
+	type: choice
+	name: symbol
+	editable: false
+	initial:symbol
+	choice: symbol
+
+card field:
+	type: text
+	name: symbol_text
+	script: input_filter(value)
+
+card field:
+	type: image
+	name: image
+
+card field:
+	type: text
+	name: flavor
+	multi line: true
+	script: flavor_filter(value)
+
+card field:
+	type: text
+	name: effect
+	multi line: true
+
+card field:
+	type: text
+	name: text
+	multi line: true
+	script: combined_editor(field1: card.effect, separator: "<line>\n</line>", field2: card.flavor)
+
+card field:
+	type: text
+	name: name
+
+card field:
+	type: text
+	name: subtype
+	script: input_filter_5(value)
+
+card field:
+	type: text
+	name: rarity_text
+	script: input_filter_3(value)
+
+card field:
+	type: choice
+	name: civspell
+	editable: false
+	initial: civspell
+	choice : civspell
+
+card field:
+	type: text
+	name: civspell_text
+	script: input_filter_3(value)
+
+card field:
+	type: text
+	name: type_color
+	script: input_filter_3(value)
+
+card field:
+	type: choice
+	name: thorns
+	editable: false
+	initial: thorns
+	choice : thorns
+
+card field:
+	type: text
+	name: thorns_text
+	script: input_filter_3(value)

@@ -1,0 +1,81 @@
+input_filter := {
+	input := to_lower(input)
+	input := sort_text(input, order: "[lwdfncja]")
+	input := substring(input, end:4)
+}
+
+input_filter_2 := {
+	input := to_lower(input)
+	input := sort_text(input, order: "[cesa]")
+	input := substring(input, end:1)
+}
+
+input_filter_3 := {
+	input := to_lower(input)
+	input := sort_text(input, order: "[123]")
+	input := substring(input, end:1)
+}
+
+input_filter_5 := {
+	input := to_upper(input)
+}
+
+flavor_filter := 
+	remove_tag@(tag: "<size>")   +
+	{ "<size:40>" + input + "</size>" } +
+	remove_tag@(tag: "<font>")   +
+	{ "<font:ITC Officina Sans>" + input + "</font>" }
+
+cost_filter := {
+	"manacost" + "_" + card.symbol_text + ".png"
+}
+
+tap_filter:= {
+	if card.symbol_text == "l" then false
+	else if card.symbol_text == "w" then false
+	else if card.symbol_text == "d" then false
+	else if card.symbol_text == "f" then false
+	else if card.symbol_text == "n" then false
+	else if card.symbol_text == "a" then false
+	else true
+}
+
+kingdom_filter := {
+	"civ" + "_" + card.kingdom_text + ".png"
+}
+
+symbol_filter := {
+	"symbol" + "_" + card.symbol_text + ".png"
+}
+
+background_filter := {
+	(if card.type_text == "s" then "spell" 
+	else if card.type_text == "a" then "abyss"
+	else "creature") + "_" + card.symbol_text + ".png"
+}
+
+type_filter := {
+	(if card.type_text == "s" then "spelltype" 
+	else if card.type_text == "c" then "creaturetype"
+	else if card.type_text == "e" then "evotype") + "_" + card.symbol_text + ".png"
+}
+
+power_filter := {
+	(if card.power_text == "1" then "powersmall" 
+	else if card.power_text == "2" then "powermid"
+	else if card.power_text == "3" then "powerbig") + "_" + card.symbol_text + ".png"
+}
+
+civspell_filter := {
+	"civspell" + "_" + card.symbol_text + ".png"
+}
+
+rarity_filter := {
+	if card.rarity_text == "1" then (card.type_text + "_mask.png")
+	else if card.rarity_text == "2" then "rare_mask.png"
+	else if card.rarity_text == "3" then "no_mask.png"
+}
+
+thorns_filter := {
+	"thorns" + "_" + card.symbol_text + ".png"
+}
