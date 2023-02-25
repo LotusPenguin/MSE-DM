@@ -133,8 +133,12 @@ card style:
 
 
 	power_number:
-		top: 1918
-		left: 70
+		top: 
+			{ if card.generation_text == "1" then 1880
+			else 1918 }
+		left: 
+			{ if card.generation_text == "1" then 100
+			else 70 }
 		height: 115
 		width: 276
 		always symbol: true
@@ -213,7 +217,9 @@ card style:
 		width: 1489
 		alignment: left justified
 		padding top: 40 
-		padding left: 120
+		padding left: 
+			{ if card.generation_text == "1" then 180
+			else 120 }
 		padding right: 120
 		z index :9
 		font:
@@ -230,7 +236,10 @@ card style:
 			scale down to: 5
 
 	subtype:
-		top: script: if card.civspell_text == "1" then 242 else 252 
+		top: 
+			{ if card.civspell_text == "1" then 242 
+			else if card.generation_text == "1" then 232 
+			else 252 }
 		left: 279
 		height: 36
 		width: 1086
@@ -239,7 +248,9 @@ card style:
 		z index : 10
 		font:
 			name: Armada Bold
-			size: 25
+			size: 
+				{ if card.generation_text = "1" then 32
+				else 25 }
 			color: script: if card.type_color == "1" then rgb(0,0,0) else rgb(255,255,255)
 	name:
 		top: 110
@@ -250,7 +261,9 @@ card style:
 		alignment: bottom-center-shrink if overflow
 		z index : 10
 		font:
-			name: perceval Bold
+			name: 
+				{ if card.generation_text = "1" then "Perceval-Bold30"
+				else "Perceval-Bold" }
 			size: 80
 			color: script: if card.symbol_text == "a" then rgb(255,255,255) else rgb(0,0,0)
 
@@ -289,4 +302,25 @@ card style:
 			name: roboto regular
 			size: 30
 			color: transparent
-			
+
+	generation:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		z index: 3
+		choice images:
+			type: script: generation_filter(value)
+
+	generation_text:
+		top: 400
+		left: 450
+		height: 100
+		width: 100
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent	

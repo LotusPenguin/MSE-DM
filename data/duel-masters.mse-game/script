@@ -20,6 +20,12 @@ input_filter_5 := {
 	input := to_upper(input)
 }
 
+input_filter_gen := {
+	input := to_lower(input)
+	input := sort_text(input, order: "[12p]")
+	input := substring(input, end:1)
+}
+
 flavor_filter := 
 	remove_tag@(tag: "<size>")   +
 	{ "<size:40>" + input + "</size>" } +
@@ -27,7 +33,8 @@ flavor_filter :=
 	{ "<font:ITC Officina Sans>" + input + "</font>" }
 
 cost_filter := {
-	"manacost" + "_" + card.symbol_text + ".png"
+	if card.generation != "" then ""
+	else "manacost" + "_" + card.symbol_text + ".png"
 }
 
 tap_filter:= {
@@ -37,6 +44,7 @@ tap_filter:= {
 	else if card.symbol_text == "f" then false
 	else if card.symbol_text == "n" then false
 	else if card.symbol_text == "a" then false
+	else if card.generation != "" then false
 	else true
 }
 
@@ -45,13 +53,21 @@ kingdom_filter := {
 }
 
 symbol_filter := {
-	"symbol" + "_" + card.symbol_text + ".png"
+	if card.generation != "" then ""
+	else "symbol" + "_" + card.symbol_text + ".png"
+}
+
+generation_filter := {
+	(if card.generation_text == "1" then "_gen1"
+	else if card.generation_text == "2" then "_gen2"
+	else if card.generation_text == "p" then "_plays"
+	else "")
 }
 
 background_filter := {
 	(if card.type_text == "s" then "spell" 
 	else if card.type_text == "a" then "abyss"
-	else "creature") + "_" + card.symbol_text + ".png"
+	else "creature") + "_" + card.symbol_text + card.generation + ".png"
 }
 
 type_filter := {

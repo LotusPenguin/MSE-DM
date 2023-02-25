@@ -1,6 +1,6 @@
 mse version: 2.0.0
 short name: Duel Masters
-full name: Joe Era Frame
+full name: MultiFrame Vertical
 icon: icon.png
 position hint: 444
 installer group: duel-masters/game
@@ -12,14 +12,14 @@ card field:
 	type: choice
 	editable: false
 	name: background
-	initial:background
+	initial: background
 	choice: background
 
 card field:
 	type: choice
 	name: cost
 	editable: false
-	initial:cost
+	initial: cost
 	choice: cost
 
 card field:
@@ -30,7 +30,7 @@ card field:
 	type: choice
 	name: kingdom
 	editable: false
-	initial:kingdom
+	initial: kingdom
 	choice: kingdom
 
 card field:
@@ -42,7 +42,7 @@ card field:
 	type: choice
 	name: type
 	editable: false
-	initial:type
+	initial: type
 	choice: type
 
 card field:
@@ -70,7 +70,7 @@ card field:
 	type: choice
 	name: symbol
 	editable: false
-	initial:symbol
+	initial: symbol
 	choice: symbol
 
 card field:
@@ -141,3 +141,14 @@ card field:
 	type: text
 	name: thorns_text
 	script: input_filter_3(value)
+
+card field:
+	type: choice
+	name: generation
+	editable: false
+	script: generation_filter(value)
+
+card field:
+	type: text
+	name: generation_text
+	script: input_filter_gen(value)

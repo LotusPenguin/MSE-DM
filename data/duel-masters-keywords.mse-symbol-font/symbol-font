@@ -4,6 +4,10 @@ installer group: duel-masters/symbol-font
 image font size: 105
 
 symbol:
+	code: t
+	image: indent.png
+
+symbol:
 	code: Super Shield Trigger 1
 	image: Super Shield Trigger 1.png
 	
@@ -18,6 +22,10 @@ symbol:
 symbol:
 	code: Shield Trigger
 	image: Shield Trigger.png
+
+symbol:
+	code: Turbo Rush
+	image: Turbo Rush.png
 
 symbol:
 	code: Onitime
