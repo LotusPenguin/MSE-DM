@@ -71,9 +71,10 @@ background_filter := {
 }
 
 type_filter := {
-	(if card.type_text == "s" then "spelltype" 
-	else if card.type_text == "c" then "creaturetype"
-	else if card.type_text == "e" then "evotype") + "_" + card.symbol_text + ".png"
+	if card.generation_text == "" then
+		(if card.type_text == "s" then "spelltype" 
+		else if card.type_text == "c" then "creaturetype"
+		else if card.type_text == "e" then "evotype") + "_" + card.symbol_text + ".png"
 }
 
 power_filter := {
