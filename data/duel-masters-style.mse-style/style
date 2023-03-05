@@ -268,7 +268,7 @@ card style:
 		z index : 10
 		font:
 			name: 
-				{ if card.generation_text == "1" then "Perceval-Bold30"
+				{ if card.generation_text == "1" then "DM Gen1 Name"
 				else "Perceval-Bold" }
 			size: 80
 			color: script: if card.symbol_text == "a" then rgb(255,255,255) else rgb(0,0,0)
