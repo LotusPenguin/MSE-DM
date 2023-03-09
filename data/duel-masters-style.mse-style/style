@@ -211,7 +211,9 @@ card style:
 
 
 	text:
-		top: 1347
+		top:
+			{ if card.generation_text == "1" then 1367
+			else 1347 }
 		left: 0
 		height: 
 			{ if card.generation_text == "1" then 480
