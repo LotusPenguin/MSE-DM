@@ -211,11 +211,11 @@ card style:
 
 
 	text:
-		top: 1367
+		top: 1347
 		left: 0
 		height: 
-			{ if card.generation_text == "1" then 460
-			else 480 }
+			{ if card.generation_text == "1" then 480
+			else 500 }
 		width: 1489
 		alignment: left justified
 		padding top: 40 
