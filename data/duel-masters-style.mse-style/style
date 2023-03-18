@@ -216,7 +216,7 @@ card style:
 			else 1347 }
 		left: 0
 		height: 
-			{ if card.generation_text == "1" then 480
+			{ if card.generation_text == "1" then 460
 			else 500 }
 		width: 1489
 		alignment: left justified
