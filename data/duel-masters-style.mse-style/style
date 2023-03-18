@@ -259,9 +259,9 @@ card style:
 			color: script: if card.type_color == "1" then rgb(0,0,0) else rgb(255,255,255)
 	name:
 		top: 110
-		left: 240 #279
+		left: 279
 		height: 110
-		width: 1160 #1086
+		width: 1086
 		padding right: 
 			{ if card.kingdom_text != "" then 220
 			else if (card.generation_text == "1") and (card.type_text == "s") then 140
