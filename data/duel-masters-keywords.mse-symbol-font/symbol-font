@@ -31,6 +31,10 @@ symbol:
 	code: Blocker
 	image: Blocker.png
 
+symbol:
+	code: Wave Striker
+	image: Wave Striker.png
+
 image font size: 120
 
 symbol:
