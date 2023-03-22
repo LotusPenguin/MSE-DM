@@ -28,6 +28,12 @@ symbol:
 	image: Turbo Rush.png
 
 symbol:
+	code: Blocker
+	image: Blocker.png
+
+image font size: 120
+
+symbol:
 	code: Onitime
 	image: Onitime.png
 
@@ -38,10 +44,6 @@ symbol:
 symbol:
 	code: Abarechain
 	image: Abarechain.png
-
-symbol:
-	code: Blocker
-	image: Blocker.png
 
 symbol:
 	code: Kirifudash
@@ -86,6 +88,8 @@ symbol:
 symbol:
 	code: Vividdraw
 	image: Vividdraw.png
+
+image font size: 140
 
 symbol:
 	code: W1.png
