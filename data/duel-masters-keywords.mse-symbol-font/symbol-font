@@ -35,6 +35,13 @@ symbol:
 	code: Wave Striker
 	image: Wave Striker.png
 
+	code: Survivor 1
+	image: Survivor.png
+
+symbol:
+	code: Survivor 2
+	image: Survivor Old.png
+
 image font size: 120
 
 symbol:
