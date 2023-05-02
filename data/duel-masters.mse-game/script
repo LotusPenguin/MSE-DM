@@ -6,8 +6,8 @@ input_filter := {
 
 input_filter_2 := {
 	input := to_lower(input)
-	input := sort_text(input, order: "[cesa]")
-	input := substring(input, end:1)
+	input := sort_text(input, order: "[cetsa]")
+	input := substring(input, end:2)
 }
 
 input_filter_3 := {
@@ -67,6 +67,8 @@ generation_filter := {
 background_filter := {
 	(if card.type_text == "s" then "spell" 
 	else if card.type_text == "a" then "abyss"
+	else if card.type_text == "t" then "tamaseed"
+	else if card.type_text == "ts" then "tamaseed_shinkarise"
 	else "creature") + "_" + card.symbol_text + card.generation + ".png"
 }
 
