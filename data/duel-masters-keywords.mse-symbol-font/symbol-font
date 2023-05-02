@@ -43,6 +43,10 @@ symbol:
 	code: Survivor 2
 	image: Survivor Old.png
 
+symbol:
+	code: Kizuna
+	image: Kizuna.png
+
 image font size: 120
 
 symbol:
