@@ -48,9 +48,15 @@ card style:
 			cost: script: cost_filter(value)
 
 	cost_text:
-		top: 83
-		left: 49
-		height: 115	
+		top:
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 95 
+			else 83 }
+		left:
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 65
+			else 49 }
+		height:
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 125
+			else 115 }
 		width: 182
 		always symbol: true
 		alignment: middle-center-shrink if overflow
@@ -58,7 +64,9 @@ card style:
 
 		symbol font:
 			name: duel-masters-symbols
-			size : 105
+			size:
+				{ if (card.generation_text == "2") and (card.type_text == "s") then 200
+				else 105 }
 
 
 	kingdom:
@@ -213,19 +221,22 @@ card style:
 	text:
 		top:
 			{ if card.generation_text == "1" then 1367
+			else if (card.generation_text == "2") and (card.type_text == "s") then 1387
 			else 1347 }
 		left: 0
 		height: 
 			{ if card.generation_text == "1" then 460
+			else if card.generation_text == "2" then 460
 			else 500 }
 		width: 1489
 		alignment: left justified
 		padding top: 40 
 		padding left: 
 			{ if card.generation_text == "1" then 180
+			else if card.generation_text == "2" then 200
 			else 120 }
 		padding right:
-			{ if (card.generation_text == "1") and (card.type_text == "s") then 160 
+			{ if (card.generation_text == "1") and (card.type_text == "s") then 160
 			else 120 }
 		z index :9
 		font:
@@ -244,6 +255,7 @@ card style:
 		top: 
 			{ if card.civspell_text == "1" then 242 
 			else if card.generation_text == "1" then 232 
+			else if card.generation_text == "2" and card.type_text == "s" then 232
 			else 252 }
 		left: 279
 		height: 36
@@ -258,13 +270,21 @@ card style:
 				else 25 }
 			color: script: if card.type_color == "1" then rgb(0,0,0) else rgb(255,255,255)
 	name:
-		top: 110
-		left: 279
+		top:
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 100
+			else 110 }
+		left: 
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 250
+			else 279 }
 		height: 110
 		width: 1086
 		padding right: 
 			{ if card.kingdom_text != "" then 220
 			else if (card.generation_text == "1") and (card.type_text == "s") then 140
+			else if (card.generation_text == "2") and (card.type_text == "s") then 60
+			else 0 }
+		padding left:
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 100
 			else 0 }
 		alignment: bottom-center-shrink if overflow
 		z index : 10
