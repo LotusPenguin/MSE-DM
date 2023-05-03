@@ -275,7 +275,7 @@ card style:
 			color: script: if card.type_color == "1" then rgb(0,0,0) else rgb(255,255,255)
 	name:
 		top:
-			{ if (card.generation_text == "2") and (card.type_text == "s") then 100
+			{ if (card.generation_text == "2") and (card.type_text == "s") then 110
 			else 110 }
 		left: 
 			{ if (card.generation_text == "2") and (card.type_text == "s") then 250
