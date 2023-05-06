@@ -10,10 +10,19 @@ symbol:
 symbol:
 	code: Super Shield Trigger 1
 	image: Super Shield Trigger 1.png
-	
+
 symbol:
-	code: Super Shield Trigger 2
-	image: Super Shield Trigger 2.png
+	code: Super Shield Trigger
+	image: Super Shield Trigger.png
+
+symbol:
+	code: Shield Trigger Plus 1
+	image: Shield Trigger Plus 1.png
+	image font size: 140
+
+symbol:
+	code: Shield Trigger Plus
+	image: Shield Trigger Plus.png
 
 symbol:
 	code: Guard Strike
