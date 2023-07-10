@@ -236,7 +236,7 @@ card style:
 			else if card.generation_text == "2" then 200
 			else 120 }
 		padding right:
-			{ if (card.generation_text == "1") and (card.type_text == "s") then 160
+			{ if (card.generation_text == "1") and (card.type_text == "s") then 180
 			else 120 }
 		z index :9
 		font:
