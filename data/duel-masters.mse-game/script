@@ -6,7 +6,7 @@ input_filter := {
 
 input_filter_2 := {
 	input := to_lower(input)
-	input := sort_text(input, order: "[cetsa]")
+	input := sort_text(input, order: "[cetsan]")
 	input := substring(input, end:2)
 }
 
@@ -76,7 +76,8 @@ type_filter := {
 	if card.generation_text == "" then
 		(if card.type_text == "s" then "spelltype" 
 		else if card.type_text == "c" then "creaturetype"
-		else if card.type_text == "e" then "evotype") + "_" + card.symbol_text + ".png"
+		else if card.type_text == "e" then "evotype"
+		else if card.type_text == "n" then "neotype") + "_" + card.symbol_text + ".png"
 }
 
 power_filter := {
