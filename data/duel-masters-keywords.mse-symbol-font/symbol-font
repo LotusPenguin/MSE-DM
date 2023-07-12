@@ -120,1441 +120,961 @@ symbol:
 image font size: 140
 
 symbol:
-	code: W1.png
+	code: W1
 	image: W1.png
 
 symbol:
-	code: W2.png
+	code: W2
 	image: W2.png
 
 symbol:
-	code: W3.png
+	code: W3
 	image: W3.png
 
 symbol:
-	code: W4.png
+	code: W4
 	image: W4.png
 
 symbol:
-	code: W5.png
+	code: W5
 	image: W5.png
 
 symbol:
-	code: W6.png
+	code: W6
 	image: W6.png
 
 symbol:
-	code: W7.png
+	code: W7
 	image: W7.png
 
 symbol:
-	code: W8.png
+	code: W8
 	image: W8.png
 
 symbol:
-	code: W9.png
+	code: W9
 	image: W9.png
 
 symbol:
-	code: W10.png
+	code: W10
 	image: W10.png
 
 symbol:
-	code: W11.png
+	code: W11
 	image: W11.png
 
 symbol:
-	code: W12.png
+	code: W12
 	image: W12.png
 
 symbol:
-	code: W13.png
+	code: W13
 	image: W13.png
 
 symbol:
-	code: W14.png
+	code: W14
 	image: W14.png
 
 symbol:
-	code: W15.png
+	code: W15
 	image: W15.png
 
 symbol:
-	code:D1.png
+	code:D1
 	image:D1.png
 
 symbol:
-	code:D2.png
+	code:D2
 	image:D2.png
 
 symbol:
-	code:D3.png
+	code:D3
 	image:D3.png
 
 symbol:
-	code:D4.png
+	code:D4
 	image:D4.png
 
 symbol:
-	code:D5.png
+	code:D5
 	image:D5.png
 
 symbol:
-	code:D6.png
+	code:D6
 	image:D6.png
 
 symbol:
-	code:D7.png
+	code:D7
 	image:D7.png
 
 symbol:
-	code:D8.png
+	code:D8
 	image:D8.png
 
 symbol:
-	code:D9.png
+	code:D9
 	image:D9.png
 
 symbol:
-	code:D10.png
+	code:D10
 	image:D10.png
 
 symbol:
-	code:D11.png
+	code:D11
 	image:D11.png
 
 symbol:
-	code:D12.png
+	code:D12
 	image:D12.png
 
 symbol:
-	code:D13.png
+	code:D13
 	image:D13.png
 
 symbol:
-	code:D14.png
+	code:D14
 	image:D14.png
 
 symbol:
-	code:D15.png
+	code:D15
 	image:D15.png
 
 symbol:
-	code:L1.png
+	code:L1
 	image:L1.png
 
 symbol:
-	code:L2.png
+	code:L2
 	image:L2.png
 
 symbol:
-	code:L3.png
+	code:L3
 	image:L3.png
 
 symbol:
-	code:L4.png
+	code:L4
 	image:L4.png
 
 symbol:
-	code:L5.png
+	code:L5
 	image:L5.png
 
 symbol:
-	code:L6.png
+	code:L6
 	image:L6.png
 
 symbol:
-	code:L7.png
+	code:L7
 	image:L7.png
 
 symbol:
-	code:L8.png
+	code:L8
 	image:L8.png
 
 symbol:
-	code:L9.png
+	code:L9
 	image:L9.png
 
 symbol:
-	code:L10.png
+	code:L10
 	image:L10.png
 
 symbol:
-	code:L11.png
+	code:L11
 	image:L11.png
 
 symbol:
-	code:L12.png
+	code:L12
 	image:L12.png
 
 symbol:
-	code:L13.png
+	code:L13
 	image:L13.png
 
 symbol:
-	code:L14.png
+	code:L14
 	image:L14.png
 
 symbol:
-	code:L15.png
+	code:L15
 	image:L15.png
 
 symbol:
-	code:N1.png
+	code:N1
 	image:N1.png
 
 symbol:
-	code:N2.png
+	code:N2
 	image:N2.png
 
 symbol:
-	code:N3.png
+	code:N3
 	image:N3.png
 
 symbol:
-	code:N4.png
+	code:N4
 	image:N4.png
 
 symbol:
-	code:N5.png
+	code:N5
 	image:N5.png
 
 symbol:
-	code:N6.png
+	code:N6
 	image:N6.png
 
 symbol:
-	code:N7.png
+	code:N7
 	image:N7.png
 
 symbol:
-	code:N8.png
+	code:N8
 	image:N8.png
 
 symbol:
-	code:N9.png
+	code:N9
 	image:N9.png
 
 symbol:
-	code:N10.png
+	code:N10
 	image:N10.png
 
 symbol:
-	code:N11.png
+	code:N11
 	image:N11.png
 
 symbol:
-	code:N12.png
+	code:N12
 	image:N12.png
 
 symbol:
-	code:N13.png
+	code:N13
 	image:N13.png
 
 symbol:
-	code:N14.png
+	code:N14
 	image:N14.png
 
 symbol:
-	code:N15.png
+	code:N15
 	image:N15.png
 
 symbol:
-	code:F1.png
+	code:F1
 	image:F1.png
 
 symbol:
-	code:F2.png
+	code:F2
 	image:F2.png
 
 symbol:
-	code:F3.png
+	code:F3
 	image:F3.png
 
 symbol:
-	code:F4.png
+	code:F4
 	image:F4.png
 
 symbol:
-	code:F5.png
+	code:F5
 	image:F5.png
 
 symbol:
-	code:F6.png
+	code:F6
 	image:F6.png
 
 symbol:
-	code:F7.png
+	code:F7
 	image:F7.png
 
 symbol:
-	code:F8.png
+	code:F8
 	image:F8.png
 
 symbol:
-	code:F9.png
+	code:F9
 	image:F9.png
 
 symbol:
-	code:F10.png
+	code:F10
 	image:F10.png
 
 symbol:
-	code:F11.png
+	code:F11
 	image:F11.png
 
 symbol:
-	code:F12.png
+	code:F12
 	image:F12.png
 
 symbol:
-	code:F13.png
+	code:F13
 	image:F13.png
 
 symbol:
-	code:F14.png
+	code:F14
 	image:F14.png
 
 symbol:
-	code:F15.png
+	code:F15
 	image:F15.png
 
 symbol:
-	code:DF1.png
+	code:DF1
 	image:DF1.png
 
 symbol:
-	code:DF2.png
+	code:DF2
 	image:DF2.png
 
 symbol:
-	code:DF3.png
-	image:DF3.png
+	code:DF3
+	image:DF3
 
 symbol:
-	code:DF4.png
+	code:DF4
 	image:DF4.png
 
 symbol:
-	code:DF5.png
+	code:DF5
 	image:DF5.png
 
 symbol:
-	code:DF6.png
+	code:DF6
 	image:DF6.png
 
 symbol:
-	code:DF7.png
+	code:DF7
 	image:DF7.png
 
 symbol:
-	code:DF8.png
+	code:DF8
 	image:DF8.png
 
 symbol:
-	code:DF9.png
+	code:DF9
 	image:DF9.png
 
 symbol:
-	code:DF10.png
+	code:DF10
 	image:DF10.png
 
 symbol:
-	code:DF11.png
+	code:DF11
 	image:DF11.png
 
 symbol:
-	code:DF12.png
+	code:DF12
 	image:DF12.png
 
 symbol:
-	code:DF13.png
+	code:DF13
 	image:DF13.png
 
 symbol:
-	code:DF14.png
+	code:DF14
 	image:DF14.png
 
 symbol:
-	code:DF15.png
+	code:DF15
 	image:DF15.png
 
 symbol:
-	code:DN1.png
+	code:DN1
 	image:DN1.png
 
 symbol:
-	code:DN2.png
+	code:DN2
 	image:DN2.png
 
 symbol:
-	code:DN3.png
+	code:DN3
 	image:DN3.png
 
 symbol:
-	code:DN4.png
+	code:DN4
 	image:DN4.png
 
 symbol:
-	code:DN5.png
+	code:DN5
 	image:DN5.png
 
 symbol:
-	code:DN6.png
+	code:DN6
 	image:DN6.png
 
 symbol:
-	code:DN7.png
+	code:DN7
 	image:DN7.png
 
 symbol:
-	code:DN8.png
+	code:DN8
 	image:DN8.png
 
 symbol:
-	code:DN9.png
+	code:DN9
 	image:DN9.png
 
 symbol:
-	code:DN10.png
+	code:DN10
 	image:DN10.png
 
 symbol:
-	code:DN11.png
+	code:DN11
 	image:DN11.png
 
 symbol:
-	code:DN12.png
+	code:DN12
 	image:DN12.png
 
 symbol:
-	code:DN13.png
+	code:DN13
 	image:DN13.png
 
 symbol:
-	code:DN14.png
+	code:DN14
 	image:DN14.png
 
 symbol:
-	code:DN15.png
+	code:DN15
 	image:DN15.png
 
 symbol:
-	code:FN1.png
+	code:FN1
 	image:FN1.png
 
 symbol:
-	code:FN2.png
+	code:FN2
 	image:FN2.png
 
 symbol:
-	code:FN3.png
+	code:FN3
 	image:FN3.png
 
 symbol:
-	code:FN4.png
+	code:FN4
 	image:FN4.png
 
 symbol:
-	code:FN5.png
+	code:FN5
 	image:FN5.png
 
 symbol:
-	code:FN6.png
+	code:FN6
 	image:FN6.png
 
 symbol:
-	code:FN7.png
+	code:FN7
 	image:FN7.png
 
 symbol:
-	code:FN8.png
+	code:FN8
 	image:FN8.png
 
 symbol:
-	code:FN9.png
+	code:FN9
 	image:FN9.png
 
 symbol:
-	code:FN10.png
+	code:FN10
 	image:FN10.png
 
 symbol:
-	code:FN11.png
+	code:FN11
 	image:FN11.png
 
 symbol:
-	code:FN12.png
+	code:FN12
 	image:FN12.png
 
 symbol:
-	code:FN13.png
+	code:FN13
 	image:FN13.png
 
 symbol:
-	code:FN14.png
+	code:FN14
 	image:FN14.png
 
 symbol:
-	code:FN15.png
+	code:FN15
 	image:FN15.png
 
 symbol:
-	code:FN1.png
-	image:FN1.png
-
-symbol:
-	code:FN2.png
-	image:FN2.png
-
-symbol:
-	code:FN3.png
-	image:FN3.png
-
-symbol:
-	code:FN4.png
-	image:FN4.png
-
-symbol:
-	code:FN5.png
-	image:FN5.png
-
-symbol:
-	code:FN6.png
-	image:FN6.png
-
-symbol:
-	code:FN7.png
-	image:FN7.png
-
-symbol:
-	code:FN8.png
-	image:FN8.png
-
-symbol:
-	code:FN9.png
-	image:FN9.png
-
-symbol:
-	code:FN10.png
-	image:FN10.png
-
-symbol:
-	code:FN11.png
-	image:FN11.png
-
-symbol:
-	code:FN12.png
-	image:FN12.png
-
-symbol:
-	code:FN13.png
-	image:FN13.png
-
-symbol:
-	code:FN14.png
-	image:FN14.png
-
-symbol:
-	code:FN15.png
-	image:FN15.png
-
-symbol:
-	code:LD1.png
+	code:LD1
 	image:LD1.png
 
 symbol:
-	code:LD2.png
+	code:LD2
 	image:LD2.png
 
 symbol:
-	code:LD3.png
+	code:LD3
 	image:LD3.png
 
 symbol:
-	code:LD4.png
+	code:LD4
 	image:LD4.png
 
 symbol:
-	code:LD5.png
+	code:LD5
 	image:LD5.png
 
 symbol:
-	code:LD6.png
+	code:LD6
 	image:LD6.png
 
 symbol:
-	code:LD7.png
+	code:LD7
 	image:LD7.png
 
 symbol:
-	code:LD8.png
+	code:LD8
 	image:LD8.png
 
 symbol:
-	code:LD9.png
+	code:LD9
 	image:LD9.png
 
 symbol:
-	code:LD10.png
+	code:LD10
 	image:LD10.png
 
 symbol:
-	code:LD11.png
+	code:LD11
 	image:LD11.png
 
 symbol:
-	code:LD12.png
+	code:LD12
 	image:LD12.png
 
 symbol:
-	code:LD13.png
+	code:LD13
 	image:LD13.png
 
 symbol:
-	code:LD14.png
+	code:LD14
 	image:LD14.png
 
 symbol:
-	code:LD15.png
+	code:LD15
 	image:LD15.png
 
 symbol:
-	code:LD1.png
-	image:LD1.png
-
-symbol:
-	code:LD2.png
-	image:LD2.png
-
-symbol:
-	code:LD3.png
-	image:LD3.png
-
-symbol:
-	code:LD4.png
-	image:LD4.png
-
-symbol:
-	code:LD5.png
-	image:LD5.png
-
-symbol:
-	code:LD6.png
-	image:LD6.png
-
-symbol:
-	code:LD7.png
-	image:LD7.png
-
-symbol:
-	code:LD8.png
-	image:LD8.png
-
-symbol:
-	code:LD9.png
-	image:LD9.png
-
-symbol:
-	code:LD10.png
-	image:LD10.png
-
-symbol:
-	code:LD11.png
-	image:LD11.png
-
-symbol:
-	code:LD12.png
-	image:LD12.png
-
-symbol:
-	code:LD13.png
-	image:LD13.png
-
-symbol:
-	code:LD14.png
-	image:LD14.png
-
-symbol:
-	code:LD15.png
-	image:LD15.png
-
-symbol:
-	code:LF1.png
+	code:LF1
 	image:LF1.png
 
 symbol:
-	code:LF2.png
+	code:LF2
 	image:LF2.png
 
 symbol:
-	code:LF3.png
+	code:LF3
 	image:LF3.png
 
 symbol:
-	code:LF4.png
+	code:LF4
 	image:LF4.png
 
 symbol:
-	code:LF5.png
+	code:LF5
 	image:LF5.png
 
 symbol:
-	code:LF6.png
+	code:LF6
 	image:LF6.png
 
 symbol:
-	code:LF7.png
+	code:LF7
 	image:LF7.png
 
 symbol:
-	code:LF8.png
+	code:LF8
 	image:LF8.png
 
 symbol:
-	code:LF9.png
+	code:LF9
 	image:LF9.png
 
 symbol:
-	code:LF10.png
+	code:LF10
 	image:LF10.png
 
 symbol:
-	code:LF11.png
+	code:LF11
 	image:LF11.png
 
 symbol:
-	code:LF12.png
+	code:LF12
 	image:LF12.png
 
 symbol:
-	code:LF13.png
+	code:LF13
 	image:LF13.png
 
 symbol:
-	code:LF14.png
+	code:LF14
 	image:LF14.png
 
 symbol:
-	code:LF15.png
+	code:LF15
 	image:LF15.png
 
 symbol:
-	code:LF1.png
-	image:LF1.png
-
-symbol:
-	code:LF2.png
-	image:LF2.png
-
-symbol:
-	code:LF3.png
-	image:LF3.png
-
-symbol:
-	code:LF4.png
-	image:LF4.png
-
-symbol:
-	code:LF5.png
-	image:LF5.png
-
-symbol:
-	code:LF6.png
-	image:LF6.png
-
-symbol:
-	code:LF7.png
-	image:LF7.png
-
-symbol:
-	code:LF8.png
-	image:LF8.png
-
-symbol:
-	code:LF9.png
-	image:LF9.png
-
-symbol:
-	code:LF10.png
-	image:LF10.png
-
-symbol:
-	code:LF11.png
-	image:LF11.png
-
-symbol:
-	code:LF12.png
-	image:LF12.png
-
-symbol:
-	code:LF13.png
-	image:LF13.png
-
-symbol:
-	code:LF14.png
-	image:LF14.png
-
-symbol:
-	code:LF15.png
-	image:LF15.png
-
-symbol:
-	code:LN1.png
+	code:LN1
 	image:LN1.png
 
 symbol:
-	code:LN2.png
+	code:LN2
 	image:LN2.png
 
 symbol:
-	code:LN3.png
+	code:LN3
 	image:LN3.png
 
 symbol:
-	code:LN4.png
+	code:LN4
 	image:LN4.png
 
 symbol:
-	code:LN5.png
+	code:LN5
 	image:LN5.png
 
 symbol:
-	code:LN6.png
+	code:LN6
 	image:LN6.png
 
 symbol:
-	code:LN7.png
+	code:LN7
 	image:LN7.png
 
 symbol:
-	code:LN8.png
+	code:LN8
 	image:LN8.png
 
 symbol:
-	code:LN9.png
+	code:LN9
 	image:LN9.png
 
 symbol:
-	code:LN10.png
+	code:LN10
 	image:LN10.png
 
 symbol:
-	code:LN11.png
+	code:LN11
 	image:LN11.png
 
 symbol:
-	code:LN12.png
+	code:LN12
 	image:LN12.png
 
 symbol:
-	code:LN13.png
+	code:LN13
 	image:LN13.png
 
 symbol:
-	code:LN14.png
+	code:LN14
 	image:LN14.png
 
 symbol:
-	code:LN15.png
+	code:LN15
 	image:LN15.png
 
 symbol:
-	code:LN1.png
-	image:LN1.png
-
-symbol:
-	code:LN2.png
-	image:LN2.png
-
-symbol:
-	code:LN3.png
-	image:LN3.png
-
-symbol:
-	code:LN4.png
-	image:LN4.png
-
-symbol:
-	code:LN5.png
-	image:LN5.png
-
-symbol:
-	code:LN6.png
-	image:LN6.png
-
-symbol:
-	code:LN7.png
-	image:LN7.png
-
-symbol:
-	code:LN8.png
-	image:LN8.png
-
-symbol:
-	code:LN9.png
-	image:LN9.png
-
-symbol:
-	code:LN10.png
-	image:LN10.png
-
-symbol:
-	code:LN11.png
-	image:LN11.png
-
-symbol:
-	code:LN12.png
-	image:LN12.png
-
-symbol:
-	code:LN13.png
-	image:LN13.png
-
-symbol:
-	code:LN14.png
-	image:LN14.png
-
-symbol:
-	code:LN15.png
-	image:LN15.png
-
-symbol:
-	code:LW1.png
+	code:LW1
 	image:LW1.png
 
 symbol:
-	code:LW2.png
+	code:LW2
 	image:LW2.png
 
 symbol:
-	code:LW3.png
+	code:LW3
 	image:LW3.png
 
 symbol:
-	code:LW4.png
+	code:LW4
 	image:LW4.png
 
 symbol:
-	code:LW5.png
+	code:LW5
 	image:LW5.png
 
 symbol:
-	code:LW6.png
+	code:LW6
 	image:LW6.png
 
 symbol:
-	code:LW7.png
+	code:LW7
 	image:LW7.png
 
 symbol:
-	code:LW8.png
+	code:LW8
 	image:LW8.png
 
 symbol:
-	code:LW9.png
+	code:LW9
 	image:LW9.png
 
 symbol:
-	code:LW10.png
+	code:LW10
 	image:LW10.png
 
 symbol:
-	code:LW11.png
+	code:LW11
 	image:LW11.png
 
 symbol:
-	code:LW12.png
+	code:LW12
 	image:LW12.png
 
 symbol:
-	code:LW13.png
+	code:LW13
 	image:LW13.png
 
 symbol:
-	code:LW14.png
+	code:LW14
 	image:LW14.png
 
 symbol:
-	code:LW15.png
+	code:LW15
 	image:LW15.png
 
 symbol:
-	code:LW1.png
-	image:LW1.png
-
-symbol:
-	code:LW2.png
-	image:LW2.png
-
-symbol:
-	code:LW3.png
-	image:LW3.png
-
-symbol:
-	code:LW4.png
-	image:LW4.png
-
-symbol:
-	code:LW5.png
-	image:LW5.png
-
-symbol:
-	code:LW6.png
-	image:LW6.png
-
-symbol:
-	code:LW7.png
-	image:LW7.png
-
-symbol:
-	code:LW8.png
-	image:LW8.png
-
-symbol:
-	code:LW9.png
-	image:LW9.png
-
-symbol:
-	code:LW10.png
-	image:LW10.png
-
-symbol:
-	code:LW11.png
-	image:LW11.png
-
-symbol:
-	code:LW12.png
-	image:LW12.png
-
-symbol:
-	code:LW13.png
-	image:LW13.png
-
-symbol:
-	code:LW14.png
-	image:LW14.png
-
-symbol:
-	code:LW15.png
-	image:LW15.png
-
-symbol:
-	code:WD1.png
+	code:WD1
 	image:WD1.png
 
 symbol:
-	code:WD2.png
+	code:WD2
 	image:WD2.png
 
 symbol:
-	code:WD3.png
+	code:WD3
 	image:WD3.png
 
 symbol:
-	code:WD4.png
+	code:WD4
 	image:WD4.png
 
 symbol:
-	code:WD5.png
+	code:WD5
 	image:WD5.png
 
 symbol:
-	code:WD6.png
+	code:WD6
 	image:WD6.png
 
 symbol:
-	code:WD7.png
+	code:WD7
 	image:WD7.png
 
 symbol:
-	code:WD8.png
+	code:WD8
 	image:WD8.png
 
 symbol:
-	code:WD9.png
+	code:WD9
 	image:WD9.png
 
 symbol:
-	code:WD10.png
+	code:WD10
 	image:WD10.png
 
 symbol:
-	code:WD11.png
+	code:WD11
 	image:WD11.png
 
 symbol:
-	code:WD12.png
+	code:WD12
 	image:WD12.png
 
 symbol:
-	code:WD13.png
+	code:WD13
 	image:WD13.png
 
 symbol:
-	code:WD14.png
+	code:WD14
 	image:WD14.png
 
 symbol:
-	code:WD15.png
+	code:WD15
 	image:WD15.png
 
 symbol:
-	code:WD1.png
-	image:WD1.png
-
-symbol:
-	code:WD2.png
-	image:WD2.png
-
-symbol:
-	code:WD3.png
-	image:WD3.png
-
-symbol:
-	code:WD4.png
-	image:WD4.png
-
-symbol:
-	code:WD5.png
-	image:WD5.png
-
-symbol:
-	code:WD6.png
-	image:WD6.png
-
-symbol:
-	code:WD7.png
-	image:WD7.png
-
-symbol:
-	code:WD8.png
-	image:WD8.png
-
-symbol:
-	code:WD9.png
-	image:WD9.png
-
-symbol:
-	code:WD10.png
-	image:WD10.png
-
-symbol:
-	code:WD11.png
-	image:WD11.png
-
-symbol:
-	code:WD12.png
-	image:WD12.png
-
-symbol:
-	code:WD13.png
-	image:WD13.png
-
-symbol:
-	code:WD14.png
-	image:WD14.png
-
-symbol:
-	code:WD15.png
-	image:WD15.png
-
-symbol:
-	code:WF1.png
+	code:WF1
 	image:WF1.png
 
 symbol:
-	code:WF2.png
+	code:WF2
 	image:WF2.png
 
 symbol:
-	code:WF3.png
+	code:WF3
 	image:WF3.png
 
 symbol:
-	code:WF4.png
+	code:WF4
 	image:WF4.png
 
 symbol:
-	code:WF5.png
+	code:WF5
 	image:WF5.png
 
 symbol:
-	code:WF6.png
+	code:WF6
 	image:WF6.png
 
 symbol:
-	code:WF7.png
+	code:WF7
 	image:WF7.png
 
 symbol:
-	code:WF8.png
+	code:WF8
 	image:WF8.png
 
 symbol:
-	code:WF9.png
+	code:WF9
 	image:WF9.png
 
 symbol:
-	code:WF10.png
+	code:WF10
 	image:WF10.png
 
 symbol:
-	code:WF11.png
+	code:WF11
 	image:WF11.png
 
 symbol:
-	code:WF12.png
+	code:WF12
 	image:WF12.png
 
 symbol:
-	code:WF13.png
+	code:WF13
 	image:WF13.png
 
 symbol:
-	code:WF14.png
+	code:WF14
 	image:WF14.png
 
 symbol:
-	code:WF15.png
+	code:WF15
 	image:WF15.png
 
 symbol:
-	code:WF1.png
-	image:WF1.png
-
-symbol:
-	code:WF2.png
-	image:WF2.png
-
-symbol:
-	code:WF3.png
-	image:WF3.png
-
-symbol:
-	code:WF4.png
-	image:WF4.png
-
-symbol:
-	code:WF5.png
-	image:WF5.png
-
-symbol:
-	code:WF6.png
-	image:WF6.png
-
-symbol:
-	code:WF7.png
-	image:WF7.png
-
-symbol:
-	code:WF8.png
-	image:WF8.png
-
-symbol:
-	code:WF9.png
-	image:WF9.png
-
-symbol:
-	code:WF10.png
-	image:WF10.png
-
-symbol:
-	code:WF11.png
-	image:WF11.png
-
-symbol:
-	code:WF12.png
-	image:WF12.png
-
-symbol:
-	code:WF13.png
-	image:WF13.png
-
-symbol:
-	code:WF14.png
-	image:WF14.png
-
-symbol:
-	code:WF15.png
-	image:WF15.png
-
-symbol:
-	code:WN1.png
+	code:WN1
 	image:WN1.png
 
 symbol:
-	code:WN2.png
+	code:WN2
 	image:WN2.png
 
 symbol:
-	code:WN3.png
+	code:WN3
 	image:WN3.png
 
 symbol:
-	code:WN4.png
+	code:WN4
 	image:WN4.png
 
 symbol:
-	code:WN5.png
+	code:WN5
 	image:WN5.png
 
 symbol:
-	code:WN6.png
+	code:WN6
 	image:WN6.png
 
 symbol:
-	code:WN7.png
+	code:WN7
 	image:WN7.png
 
 symbol:
-	code:WN8.png
+	code:WN8
 	image:WN8.png
 
 symbol:
-	code:WN9.png
+	code:WN9
 	image:WN9.png
 
 symbol:
-	code:WN10.png
+	code:WN10
 	image:WN10.png
 
 symbol:
-	code:WN11.png
+	code:WN11
 	image:WN11.png
 
 symbol:
-	code:WN12.png
+	code:WN12
 	image:WN12.png
 
 symbol:
-	code:WN13.png
+	code:WN13
 	image:WN13.png
 
 symbol:
-	code:WN14.png
+	code:WN14
 	image:WN14.png
 
 symbol:
-	code:WN15.png
+	code:WN15
 	image:WN15.png
 
 symbol:
-	code:WN1.png
-	image:WN1.png
-
-symbol:
-	code:WN2.png
-	image:WN2.png
-
-symbol:
-	code:WN3.png
-	image:WN3.png
-
-symbol:
-	code:WN4.png
-	image:WN4.png
-
-symbol:
-	code:WN5.png
-	image:WN5.png
-
-symbol:
-	code:WN6.png
-	image:WN6.png
-
-symbol:
-	code:WN7.png
-	image:WN7.png
-
-symbol:
-	code:WN8.png
-	image:WN8.png
-
-symbol:
-	code:WN9.png
-	image:WN9.png
-
-symbol:
-	code:WN10.png
-	image:WN10.png
-
-symbol:
-	code:WN11.png
-	image:WN11.png
-
-symbol:
-	code:WN12.png
-	image:WN12.png
-
-symbol:
-	code:WN13.png
-	image:WN13.png
-
-symbol:
-	code:WN14.png
-	image:WN14.png
-
-symbol:
-	code:WN15.png
-	image:WN15.png
-
-symbol:
-	code:C1.png
+	code:C1
 	image:C1.png
 
 symbol:
-	code:C2.png
+	code:C2
 	image:C2.png
 
 symbol:
-	code:C3.png
+	code:C3
 	image:C3.png
 
 symbol:
-	code:C4.png
+	code:C4
 	image:C4.png
 
 symbol:
-	code:C5.png
+	code:C5
 	image:C5.png
 
 symbol:
-	code:C6.png
+	code:C6
 	image:C6.png
 
 symbol:
-	code:C7.png
+	code:C7
 	image:C7.png
 
 symbol:
-	code:C8.png
+	code:C8
 	image:C8.png
 
 symbol:
-	code:C9.png
+	code:C9
 	image:C9.png
 
 symbol:
-	code:C10.png
+	code:C10
 	image:C10.png
 
 symbol:
-	code:C11.png
+	code:C11
 	image:C11.png
 
 symbol:
-	code:C12.png
+	code:C12
 	image:C12.png
 
 symbol:
-	code:C13.png
+	code:C13
 	image:C13.png
 
 symbol:
-	code:C14.png
+	code:C14
 	image:C14.png
 
 symbol:
-	code:C15.png
+	code:C15
 	image:C15.png
