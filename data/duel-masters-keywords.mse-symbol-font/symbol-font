@@ -29,6 +29,7 @@ symbol:
 symbol:
 	code: Guard Strike
 	image: GuardStrike.png
+	image font size: 80
 
 symbol:
 	code: Shield Trigger
