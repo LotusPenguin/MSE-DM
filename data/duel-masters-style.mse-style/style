@@ -28,14 +28,12 @@ card style:
 		choice images:
 			background: script: background_filter(value)
 
-
 	image:
 		top: 0
 		left: 0
 		height: 2080
 		width: 1489
 		z index: 0
-
 
 	cost:
 		top: 0
@@ -68,7 +66,6 @@ card style:
 				{ if (card.generation_text == "2") and (card.type_text == "s") then 200
 				else 105 }
 
-
 	kingdom:
 		top: 0
 		left: 1089
@@ -78,7 +75,6 @@ card style:
 		z index: 4
 		choice images:
 			kingdom: script: kingdom_filter(value)
-
 
 	kingdom_text:
 		top: 400
@@ -92,7 +88,6 @@ card style:
 			size: 30
 			color: transparent
 
-
 	type:
 		top: 0
 		left: 0
@@ -102,7 +97,6 @@ card style:
 		z index: 3
 		choice images:
 			type: script: type_filter(value)
-
 
 	type_text:
 		top: 1100
@@ -137,8 +131,6 @@ card style:
 			name: roboto regular
 			size: 30
 			color: transparent
-			
-
 
 	power_number:
 		top: 
@@ -157,7 +149,6 @@ card style:
 		symbol font:
 			name: duel-masters-symbols
 			size : 105
-
 
 	symbol:
 		top: 0
@@ -204,7 +195,6 @@ card style:
 			size: 30
 			color: transparent
 
-
 	symbol_text:
 		top: 1900
 		left: 669
@@ -216,7 +206,6 @@ card style:
 			name: roboto regular
 			size: 30
 			color: transparent
-
 
 	text:
 		top:
@@ -273,6 +262,7 @@ card style:
 				{ if card.generation_text == "1" then 32
 				else 25 }
 			color: script: if card.type_color == "1" then rgb(0,0,0) else rgb(255,255,255)
+	
 	name:
 		top:
 			{ if (card.generation_text == "2") and (card.type_text == "s") then 110
