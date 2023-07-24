@@ -10,6 +10,11 @@ symbol:
 	image: indent.png
 
 symbol:
+	code: Victory Rare
+	image: Victory Rare.png
+	image font size: 20
+
+symbol:
 	code: Super Shield Trigger 1
 	image: Super Shield Trigger 1.png
 	image font size: 120
