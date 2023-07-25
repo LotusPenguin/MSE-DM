@@ -10,6 +10,11 @@ symbol:
 	image: indent.png
 
 symbol:
+	code: Strike Back
+	image: Strike Back.png
+	image font size: 18
+
+symbol:
 	code: Victory Rare
 	image: Victory Rare.png
 	image font size: 20
