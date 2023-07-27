@@ -10,6 +10,11 @@ symbol:
 	image: indent.png
 
 symbol:
+	code: Knight Magic
+	image: Knight Magic.png
+	image font size: 28
+
+symbol:
 	code: Strike Back
 	image: Strike Back.png
 	image font size: 18

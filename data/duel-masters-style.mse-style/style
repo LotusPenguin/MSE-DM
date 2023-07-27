@@ -252,7 +252,8 @@ card style:
 		width: 1086
 		padding right:
 			{ if card.type_text == "t" or card.type_text == "ts" then 150
-			else if card.kingdom_text == "" then 0 
+			else if (card.generation_text == "1") and (card.type_text == "s") then 200
+			else if card.kingdom_text == "" then 0
 			else 220 }
 		alignment: middle-center-shrink if overflow
 		z index : 10
@@ -274,6 +275,7 @@ card style:
 		width: 1086
 		padding right: 
 			{ if card.kingdom_text != "" then 220
+			else if (card.civspell_text == "0") then 0
 			else if (card.generation_text == "1") and (card.type_text == "s") then 140
 			else if (card.generation_text == "2") and (card.type_text == "s") then 60
 			else 0 }
