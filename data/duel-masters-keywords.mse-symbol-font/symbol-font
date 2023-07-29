@@ -1,13 +1,16 @@
 mse version: 2.0.0
 installer group: duel-masters/symbol-font
 
-#TODO: Marshall touch
-
 image font size: 105
 
 symbol:
 	code: t
 	image: indent.png
+
+symbol:
+	code: Marshall Touch
+	image: Marshall Touch.png
+	image font size: 18
 
 symbol:
 	code: Knight Magic
