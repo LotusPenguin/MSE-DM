@@ -227,6 +227,10 @@ card style:
 		padding right:
 			{ if (card.generation_text == "1") and (card.type_text == "s") then 180
 			else 120 }
+		line height soft:
+			{ 1 - 0.01*card_style.text.content_lines }
+		line height hard:
+			{ 1 - 0.01*card_style.text.content_lines }
 		z index :9
 		font:
 			name: OfficinaSansMediumITC
@@ -252,7 +256,7 @@ card style:
 		width: 1086
 		padding right:
 			{ if card.type_text == "t" or card.type_text == "ts" then 150
-			else if (card.generation_text == "1") and (card.type_text == "s") then 200
+			else if (card.generation_text == "1") and (card.type_text == "s") then 160
 			else if card.kingdom_text == "" then 0
 			else 220 }
 		alignment: middle-center-shrink if overflow
