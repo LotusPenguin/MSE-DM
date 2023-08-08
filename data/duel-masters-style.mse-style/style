@@ -230,7 +230,7 @@ card style:
 		line height soft:
 			{ 1 - 0.01*card_style.text.content_lines }
 		line height hard:
-			{ 1 - 0.01*card_style.text.content_lines }
+			{ 1.1 - 0.01*card_style.text.content_lines }
 		z index :9
 		font:
 			name: OfficinaSansMediumITC
