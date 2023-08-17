@@ -69,6 +69,7 @@ background_filter := {
 	else if card.type_text == "a" then "abyss"
 	else if card.type_text == "t" then "tamaseed"
 	else if card.type_text == "ts" then "tamaseed_shinkarise"
+	else if card.type_text == "cg" and card.generation_text != "" then "crossgear"
 	else "creature") + "_" + card.symbol_text + card.generation + ".png"
 }
 
