@@ -33,6 +33,16 @@ symbol:
 	image font size: 120
 
 symbol:
+	code: S.png
+	image: Super Shield Trigger 1.png
+	image font size: 120
+
+symbol:
+	code: Super Shield Trigger.png
+	image: Super Shield Trigger.png
+	image font size: 90
+
+symbol:
 	code: Super Shield Trigger
 	image: Super Shield Trigger.png
 	image font size: 90
@@ -53,12 +63,20 @@ symbol:
 	image font size: 80
 
 symbol:
+	code: Shield Trigger.png
+	image: Shield Trigger.png
+
+symbol:
 	code: Shield Trigger
 	image: Shield Trigger.png
 
 symbol:
 	code: Turbo Rush
 	image: Turbo Rush.png
+
+symbol:
+	code: Blocker.png
+	image: Blocker.png
 
 symbol:
 	code: Blocker
