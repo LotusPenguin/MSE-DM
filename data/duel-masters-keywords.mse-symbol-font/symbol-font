@@ -48,9 +48,19 @@ symbol:
 	image font size: 90
 
 symbol:
+	code: Shield Trigger Plus.png
+	image: Shield Trigger Plus 1.png
+	image font size: 140
+
+symbol:
 	code: Shield Trigger Plus 1
 	image: Shield Trigger Plus 1.png
 	image font size: 140
+
+symbol:
+	code: Shield Trigger +.png
+	image: Shield Trigger Plus.png
+	image font size: 90
 
 symbol:
 	code: Shield Trigger Plus
