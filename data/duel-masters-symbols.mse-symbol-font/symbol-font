@@ -51,3 +51,7 @@ symbol:
 symbol:
 	code: -
 	image: -.png
+
+symbol:
+	code: ∞
+	image: ∞.png

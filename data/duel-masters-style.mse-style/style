@@ -142,13 +142,15 @@ card style:
 		height: 115
 		width: 276
 		always symbol: true
-		alignment: left justified
+		alignment: 
+			{ if card.power_number == "∞" then "top center"
+			else "left justified" }
 		always symbol : true
 		z index: 10
 		
 		symbol font:
 			name: duel-masters-symbols
-			size : 105
+			size: 105
 
 	symbol:
 		top: 0

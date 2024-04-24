@@ -8,6 +8,11 @@ symbol:
 	image: indent.png
 
 symbol:
+	code: Accelerator
+	image: Accelerator.png
+	image font size: 18
+
+symbol:
 	code: Marshall Touch
 	image: Marshall Touch.png
 	image font size: 18
