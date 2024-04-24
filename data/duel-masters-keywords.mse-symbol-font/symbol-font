@@ -102,6 +102,10 @@ symbol:
 	image: Wave Striker.png
 
 symbol:
+	code: Survivor.png
+	image: Survivor.png
+
+symbol:
 	code: Survivor 1
 	image: Survivor.png
 
