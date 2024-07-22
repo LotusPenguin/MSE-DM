@@ -102,3 +102,7 @@ rarity_filter := {
 thorns_filter := {
 	"thorns" + "_" + card.symbol_text + ".png"
 }
+
+lightning_filter := {
+	"lightning" + "_" + card.lightning_text + ".png"
+}

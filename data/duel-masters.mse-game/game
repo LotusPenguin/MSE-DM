@@ -152,3 +152,15 @@ card field:
 	type: text
 	name: generation_text
 	script: input_filter_gen(value)
+
+card field:
+	type: choice
+	name: lightning
+	editable: false
+	initial: lightning
+	choice: lightning
+
+card field:
+	type: text
+	name: lightning_text
+	script: input_filter_2(value)

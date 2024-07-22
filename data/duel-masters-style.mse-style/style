@@ -363,3 +363,25 @@ card style:
 			name: roboto regular
 			size: 30
 			color: transparent	
+
+	lightning:
+		top: 0
+		left: 0
+		height: 2080
+		width: 1489
+		render style: image
+		z index: 9
+		choice images:
+			lightning: script: lightning_filter(value)
+
+	lightning_text:
+		top: 400
+		left: 750
+		height: 100
+		width: 100
+		z index: 10
+		
+		font:
+			name: roboto regular
+			size: 30
+			color: transparent	
