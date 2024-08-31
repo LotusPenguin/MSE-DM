@@ -135,12 +135,20 @@ symbol:
 	image: Kirifudarevolution.png
 
 symbol:
-	code: Buzzrender
-	image: Buzzrender.png
+	code: Buzzrender2.png
+	image: Buzzrender2.png
+
+symbol:
+	code: Buzzrender2white.png
+	image: Buzzrender2.png
 
 symbol:
 	code: B2
 	image: Buzzrender2.png
+
+symbol:
+	code: Buzzrender
+	image: Buzzrender.png
 
 symbol:
 	code: Double Magibomber
