@@ -185,6 +185,30 @@ symbol:
 image font size: 140
 
 symbol:
+	code: W10
+	image: W10.png
+
+symbol:
+	code: W11
+	image: W11.png
+
+symbol:
+	code: W12
+	image: W12.png
+
+symbol:
+	code: W13
+	image: W13.png
+
+symbol:
+	code: W14
+	image: W14.png
+
+symbol:
+	code: W15
+	image: W15.png
+
+symbol:
 	code: W1
 	image: W1.png
 
@@ -221,29 +245,28 @@ symbol:
 	image: W9.png
 
 symbol:
-	code: W10
-	image: W10.png
+	code:D10
+	image:D10.png
 
 symbol:
-	code: W11
-	image: W11.png
+	code:D11
+	image:D11.png
 
 symbol:
-	code: W12
-	image: W12.png
+	code:D12
+	image:D12.png
 
 symbol:
-	code: W13
-	image: W13.png
+	code:D13
+	image:D13.png
 
 symbol:
-	code: W14
-	image: W14.png
+	code:D14
+	image:D14.png
 
 symbol:
-	code: W15
-	image: W15.png
-
+	code:D15
+	image:D15.png
 symbol:
 	code:D1
 	image:D1.png
@@ -281,28 +304,24 @@ symbol:
 	image:D9.png
 
 symbol:
-	code:D10
-	image:D10.png
+	code:L11
+	image:L11.png
 
 symbol:
-	code:D11
-	image:D11.png
+	code:L12
+	image:L12.png
 
 symbol:
-	code:D12
-	image:D12.png
+	code:L13
+	image:L13.png
 
 symbol:
-	code:D13
-	image:D13.png
+	code:L14
+	image:L14.png
 
 symbol:
-	code:D14
-	image:D14.png
-
-symbol:
-	code:D15
-	image:D15.png
+	code:L15
+	image:L15.png
 
 symbol:
 	code:L1
@@ -345,24 +364,28 @@ symbol:
 	image:L10.png
 
 symbol:
-	code:L11
-	image:L11.png
+	code:N10
+	image:N10.png
 
 symbol:
-	code:L12
-	image:L12.png
+	code:N11
+	image:N11.png
 
 symbol:
-	code:L13
-	image:L13.png
+	code:N12
+	image:N12.png
 
 symbol:
-	code:L14
-	image:L14.png
+	code:N13
+	image:N13.png
 
 symbol:
-	code:L15
-	image:L15.png
+	code:N14
+	image:N14.png
+
+symbol:
+	code:N15
+	image:N15.png
 
 symbol:
 	code:N1
@@ -401,28 +424,28 @@ symbol:
 	image:N9.png
 
 symbol:
-	code:N10
-	image:N10.png
+	code:F10
+	image:F10.png
 
 symbol:
-	code:N11
-	image:N11.png
+	code:F11
+	image:F11.png
 
 symbol:
-	code:N12
-	image:N12.png
+	code:F12
+	image:F12.png
 
 symbol:
-	code:N13
-	image:N13.png
+	code:F13
+	image:F13.png
 
 symbol:
-	code:N14
-	image:N14.png
+	code:F14
+	image:F14.png
 
 symbol:
-	code:N15
-	image:N15.png
+	code:F15
+	image:F15.png
 
 symbol:
 	code:F1
@@ -461,28 +484,28 @@ symbol:
 	image:F9.png
 
 symbol:
-	code:F10
-	image:F10.png
+	code:DF10
+	image:DF10.png
 
 symbol:
-	code:F11
-	image:F11.png
+	code:DF11
+	image:DF11.png
 
 symbol:
-	code:F12
-	image:F12.png
+	code:DF12
+	image:DF12.png
 
 symbol:
-	code:F13
-	image:F13.png
+	code:DF13
+	image:DF13.png
 
 symbol:
-	code:F14
-	image:F14.png
+	code:DF14
+	image:DF14.png
 
 symbol:
-	code:F15
-	image:F15.png
+	code:DF15
+	image:DF15.png
 
 symbol:
 	code:DF1
@@ -521,28 +544,28 @@ symbol:
 	image:DF9.png
 
 symbol:
-	code:DF10
-	image:DF10.png
+	code:DN10
+	image:DN10.png
 
 symbol:
-	code:DF11
-	image:DF11.png
+	code:DN11
+	image:DN11.png
 
 symbol:
-	code:DF12
-	image:DF12.png
+	code:DN12
+	image:DN12.png
 
 symbol:
-	code:DF13
-	image:DF13.png
+	code:DN13
+	image:DN13.png
 
 symbol:
-	code:DF14
-	image:DF14.png
+	code:DN14
+	image:DN14.png
 
 symbol:
-	code:DF15
-	image:DF15.png
+	code:DN15
+	image:DN15.png
 
 symbol:
 	code:DN1
@@ -581,28 +604,28 @@ symbol:
 	image:DN9.png
 
 symbol:
-	code:DN10
-	image:DN10.png
+	code:FN10
+	image:FN10.png
 
 symbol:
-	code:DN11
-	image:DN11.png
+	code:FN11
+	image:FN11.png
 
 symbol:
-	code:DN12
-	image:DN12.png
+	code:FN12
+	image:FN12.png
 
 symbol:
-	code:DN13
-	image:DN13.png
+	code:FN13
+	image:FN13.png
 
 symbol:
-	code:DN14
-	image:DN14.png
+	code:FN14
+	image:FN14.png
 
 symbol:
-	code:DN15
-	image:DN15.png
+	code:FN15
+	image:FN15.png
 
 symbol:
 	code:FN1
@@ -641,28 +664,28 @@ symbol:
 	image:FN9.png
 
 symbol:
-	code:FN10
-	image:FN10.png
+	code:LD10
+	image:LD10.png
 
 symbol:
-	code:FN11
-	image:FN11.png
+	code:LD11
+	image:LD11.png
 
 symbol:
-	code:FN12
-	image:FN12.png
+	code:LD12
+	image:LD12.png
 
 symbol:
-	code:FN13
-	image:FN13.png
+	code:LD13
+	image:LD13.png
 
 symbol:
-	code:FN14
-	image:FN14.png
+	code:LD14
+	image:LD14.png
 
 symbol:
-	code:FN15
-	image:FN15.png
+	code:LD15
+	image:LD15.png
 
 symbol:
 	code:LD1
@@ -701,28 +724,28 @@ symbol:
 	image:LD9.png
 
 symbol:
-	code:LD10
-	image:LD10.png
+	code:LF10
+	image:LF10.png
 
 symbol:
-	code:LD11
-	image:LD11.png
+	code:LF11
+	image:LF11.png
 
 symbol:
-	code:LD12
-	image:LD12.png
+	code:LF12
+	image:LF12.png
 
 symbol:
-	code:LD13
-	image:LD13.png
+	code:LF13
+	image:LF13.png
 
 symbol:
-	code:LD14
-	image:LD14.png
+	code:LF14
+	image:LF14.png
 
 symbol:
-	code:LD15
-	image:LD15.png
+	code:LF15
+	image:LF15.png
 
 symbol:
 	code:LF1
@@ -761,28 +784,28 @@ symbol:
 	image:LF9.png
 
 symbol:
-	code:LF10
-	image:LF10.png
+	code:LN10
+	image:LN10.png
 
 symbol:
-	code:LF11
-	image:LF11.png
+	code:LN11
+	image:LN11.png
 
 symbol:
-	code:LF12
-	image:LF12.png
+	code:LN12
+	image:LN12.png
 
 symbol:
-	code:LF13
-	image:LF13.png
+	code:LN13
+	image:LN13.png
 
 symbol:
-	code:LF14
-	image:LF14.png
+	code:LN14
+	image:LN14.png
 
 symbol:
-	code:LF15
-	image:LF15.png
+	code:LN15
+	image:LN15.png
 
 symbol:
 	code:LN1
@@ -821,28 +844,24 @@ symbol:
 	image:LN9.png
 
 symbol:
-	code:LN10
-	image:LN10.png
+	code:LW11
+	image:LW11.png
 
 symbol:
-	code:LN11
-	image:LN11.png
+	code:LW12
+	image:LW12.png
 
 symbol:
-	code:LN12
-	image:LN12.png
+	code:LW13
+	image:LW13.png
 
 symbol:
-	code:LN13
-	image:LN13.png
+	code:LW14
+	image:LW14.png
 
 symbol:
-	code:LN14
-	image:LN14.png
-
-symbol:
-	code:LN15
-	image:LN15.png
+	code:LW15
+	image:LW15.png
 
 symbol:
 	code:LW1
@@ -885,24 +904,28 @@ symbol:
 	image:LW10.png
 
 symbol:
-	code:LW11
-	image:LW11.png
+	code:WD10
+	image:WD10.png
 
 symbol:
-	code:LW12
-	image:LW12.png
+	code:WD11
+	image:WD11.png
 
 symbol:
-	code:LW13
-	image:LW13.png
+	code:WD12
+	image:WD12.png
 
 symbol:
-	code:LW14
-	image:LW14.png
+	code:WD13
+	image:WD13.png
 
 symbol:
-	code:LW15
-	image:LW15.png
+	code:WD14
+	image:WD14.png
+
+symbol:
+	code:WD15
+	image:WD15.png
 
 symbol:
 	code:WD1
@@ -941,28 +964,28 @@ symbol:
 	image:WD9.png
 
 symbol:
-	code:WD10
-	image:WD10.png
+	code:WF10
+	image:WF10.png
 
 symbol:
-	code:WD11
-	image:WD11.png
+	code:WF11
+	image:WF11.png
 
 symbol:
-	code:WD12
-	image:WD12.png
+	code:WF12
+	image:WF12.png
 
 symbol:
-	code:WD13
-	image:WD13.png
+	code:WF13
+	image:WF13.png
 
 symbol:
-	code:WD14
-	image:WD14.png
+	code:WF14
+	image:WF14.png
 
 symbol:
-	code:WD15
-	image:WD15.png
+	code:WF15
+	image:WF15.png
 
 symbol:
 	code:WF1
@@ -1001,28 +1024,28 @@ symbol:
 	image:WF9.png
 
 symbol:
-	code:WF10
-	image:WF10.png
+	code:WN10
+	image:WN10.png
 
 symbol:
-	code:WF11
-	image:WF11.png
+	code:WN11
+	image:WN11.png
 
 symbol:
-	code:WF12
-	image:WF12.png
+	code:WN12
+	image:WN12.png
 
 symbol:
-	code:WF13
-	image:WF13.png
+	code:WN13
+	image:WN13.png
 
 symbol:
-	code:WF14
-	image:WF14.png
+	code:WN14
+	image:WN14.png
 
 symbol:
-	code:WF15
-	image:WF15.png
+	code:WN15
+	image:WN15.png
 
 symbol:
 	code:WN1
@@ -1061,28 +1084,28 @@ symbol:
 	image:WN9.png
 
 symbol:
-	code:WN10
-	image:WN10.png
+	code:C10
+	image:C10.png
 
 symbol:
-	code:WN11
-	image:WN11.png
+	code:C11
+	image:C11.png
 
 symbol:
-	code:WN12
-	image:WN12.png
+	code:C12
+	image:C12.png
 
 symbol:
-	code:WN13
-	image:WN13.png
+	code:C13
+	image:C13.png
 
 symbol:
-	code:WN14
-	image:WN14.png
+	code:C14
+	image:C14.png
 
 symbol:
-	code:WN15
-	image:WN15.png
+	code:C15
+	image:C15.png
 
 symbol:
 	code:C1
@@ -1119,27 +1142,3 @@ symbol:
 symbol:
 	code:C9
 	image:C9.png
-
-symbol:
-	code:C10
-	image:C10.png
-
-symbol:
-	code:C11
-	image:C11.png
-
-symbol:
-	code:C12
-	image:C12.png
-
-symbol:
-	code:C13
-	image:C13.png
-
-symbol:
-	code:C14
-	image:C14.png
-
-symbol:
-	code:C15
-	image:C15.png
