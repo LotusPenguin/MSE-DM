@@ -1,13 +1,13 @@
 input_filter := {
 	input := to_lower(input)
 	input := sort_text(input, order: "[lwdfncja]")
-	input := substring(input, end:4)
+	input := substring(input, end:6)
 }
 
 input_filter_2 := {
 	input := to_lower(input)
-	input := sort_text(input, order: "[cgetsan]")
-	input := substring(input, end:2)
+	input := sort_text(input, order: "[pcgetsan]")
+	input := substring(input, end:3)
 }
 
 input_filter_3 := {
@@ -69,7 +69,7 @@ background_filter := {
 	else if card.type_text == "a" then "abyss"
 	else if card.type_text == "t" then "tamaseed"
 	else if card.type_text == "ts" then "tamaseed_shinkarise"
-	else if card.type_text == "cg" and card.generation_text != "" then "crossgear"
+	else if card.type_text == "cg" or card.type_text == "pcg" and card.generation_text != "" then "crossgear"
 	else "creature") + "_" + card.symbol_text + card.generation + ".png"
 }
 
@@ -79,7 +79,8 @@ type_filter := {
 		else if card.type_text == "c" then "creaturetype"
 		else if card.type_text == "e" then "evotype"
 		else if card.type_text == "n" then "neotype"
-		else if card.type_text == "cg" then "crossgeartype") + "_" + card.symbol_text + ".png"
+		else if card.type_text == "cg" then "crossgeartype"
+		else if card.type_text == "pcg" then "psychic_crossgeartype") + "_" + card.symbol_text + ".png"
 }
 
 power_filter := {
