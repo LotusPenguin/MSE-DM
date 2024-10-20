@@ -81,7 +81,8 @@ type_filter := {
 		else if card.type_text == "n" then "neotype"
 		else if card.type_text == "cg" then "crossgeartype"
 		else if card.type_text == "pcg" then "psychic_crossgeartype"
-		else if card.type_text == "se" then "starevotype") + "_" + card.symbol_text + ".png"
+		else if card.type_text == "se" then "starevotype"
+		else if card.type_text == "pe" then "psychic_evotype") + "_" + card.symbol_text + ".png"
 }
 
 power_filter := {
