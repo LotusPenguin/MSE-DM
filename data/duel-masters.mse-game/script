@@ -6,7 +6,7 @@ input_filter := {
 
 input_filter_2 := {
 	input := to_lower(input)
-	input := sort_text(input, order: "[pcgetsan]")
+	input := sort_text(input, order: "[pcgtsean]")
 	input := substring(input, end:3)
 }
 
@@ -80,7 +80,8 @@ type_filter := {
 		else if card.type_text == "e" then "evotype"
 		else if card.type_text == "n" then "neotype"
 		else if card.type_text == "cg" then "crossgeartype"
-		else if card.type_text == "pcg" then "psychic_crossgeartype") + "_" + card.symbol_text + ".png"
+		else if card.type_text == "pcg" then "psychic_crossgeartype"
+		else if card.type_text == "se" then "starevotype") + "_" + card.symbol_text + ".png"
 }
 
 power_filter := {
