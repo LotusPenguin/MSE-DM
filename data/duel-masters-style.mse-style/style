@@ -289,7 +289,8 @@ card style:
 		height: 110
 		width: 1086
 		padding right: 
-			{ if card.kingdom_text != "" then 150
+			{ if card.kingdom_text == "j" then 180
+			else if card.kingdom_text != "" then 150
 			else if (card.civspell_text == "0") then 0
 			else if (card.generation_text == "1") and (card.type_text == "s") then 140
 			else if (card.generation_text == "2") and (card.type_text == "s") then 60
