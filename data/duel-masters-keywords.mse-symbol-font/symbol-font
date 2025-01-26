@@ -37,7 +37,6 @@ symbol:
 symbol:
 	code: Strike Back
 	image: Strike Back.png
-	image font size: 18
 
 symbol:
 	code: Victory Rare
@@ -51,6 +50,11 @@ symbol:
 
 symbol:
 	code: S.png
+	image: Super Shield Trigger 1.png
+	image font size: 120
+
+symbol:
+	code: S white.png
 	image: Super Shield Trigger 1.png
 	image font size: 120
 
