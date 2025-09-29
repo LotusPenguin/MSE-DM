@@ -189,6 +189,18 @@ symbol:
 image font size: 140
 
 symbol:
+	code: LWN5
+	image: LWN5.png
+
+symbol:
+	code: LFN4
+	image: LFN4.png
+
+symbol:
+	code: LFN7
+	image: LFN7.png
+
+symbol:
 	code: W10
 	image: W10.png
 
