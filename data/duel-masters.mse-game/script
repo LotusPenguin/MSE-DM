@@ -6,7 +6,7 @@ input_filter := {
 
 input_filter_2 := {
 	input := to_lower(input)
-	input := sort_text(input, order: "[pcgtsean]")
+	input := sort_text(input, order: "[dpcgtsean]")
 	input := substring(input, end:3)
 }
 

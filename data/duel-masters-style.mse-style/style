@@ -161,6 +161,7 @@ card style:
 		width: 1489
 		render style: image
 		z index: 4
+		visible: script: if card.type_text == "d" then false else true
 		choice images:
 			symbol: script: symbol_filter(value)
 
