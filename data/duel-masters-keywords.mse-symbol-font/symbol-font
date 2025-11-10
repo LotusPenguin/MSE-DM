@@ -32,7 +32,6 @@ symbol:
 symbol:
 	code: Knight Magic
 	image: Knight Magic.png
-	image font size: 28
 
 symbol:
 	code: Strike Back
