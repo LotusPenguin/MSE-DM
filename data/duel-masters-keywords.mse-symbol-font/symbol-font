@@ -186,19 +186,109 @@ symbol:
 	code: Vividdraw
 	image: Vividdraw.png
 
-image font size: 140
+image font size: 30
+
+symbol:
+	code: LWN3
+	image: LWN3.png
+
+symbol:
+	code: LWN4
+	image: LWN4.png
 
 symbol:
 	code: LWN5
 	image: LWN5.png
 
 symbol:
+	code: LWN6
+	image: LWN6.png
+
+symbol:
+	code: LWN7
+	image: LWN7.png
+
+symbol:
+	code: LFN3
+	image: LFN3.png
+
+symbol:
 	code: LFN4
 	image: LFN4.png
 
 symbol:
+	code: LFN5
+	image: LFN5.png
+
+symbol:
+	code: LFN6
+	image: LFN6.png
+
+symbol:
 	code: LFN7
 	image: LFN7.png
+
+symbol:
+	code: DFN3
+	image: DFN3.png
+
+symbol:
+	code: DFN4
+	image: DFN4.png
+
+symbol:
+	code: DFN5
+	image: DFN5.png
+
+symbol:
+	code: DFN6
+	image: DFN6.png
+
+symbol:
+	code: DFN7
+	image: DFN7.png
+
+symbol:
+	code: WDF3
+	image: WDF3.png
+
+symbol:
+	code: WDF4
+	image: WDF4.png
+
+symbol:
+	code: WDF5
+	image: WDF5.png
+
+symbol:
+	code: WDF6
+	image: WDF6.png
+
+symbol:
+	code: WDF7
+	image: WDF7.png
+
+symbol:
+	code: LWD3
+	image: LWD3.png
+
+symbol:
+	code: LWD4
+	image: LWD4.png
+
+symbol:
+	code: LWD5
+	image: LWD5.png
+
+symbol:
+	code: LWD6
+	image: LWD6.png
+
+symbol:
+	code: LWD7
+	image: LWD7.png
+
+image font size: 140
 
 symbol:
 	code: W10
