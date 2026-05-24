@@ -8,6 +8,10 @@ symbol:
 	image: indent.png
 
 symbol:
+	code: Tap.png
+	image: Tap.png
+
+symbol:
 	code: Shield Force
 	image: Shield Force.png
 	image font size: 75
