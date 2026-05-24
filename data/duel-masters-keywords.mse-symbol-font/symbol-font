@@ -7,6 +7,11 @@ symbol:
 	code: t
 	image: indent.png
 
+symbol:
+	code: Shield Force
+	image: Shield Force.png
+	image font size: 75
+
 symbol: 
 	code: Fort Energy
 	image: Fort Energy.png
