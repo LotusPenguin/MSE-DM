@@ -6,8 +6,8 @@ input_filter := {
 
 input_filter_2 := {
 	input := to_lower(input)
-	input := sort_text(input, order: "[dpcgtsean]")
-	input := substring(input, end:3)
+	input := sort_text(input, order: "[drpcgtseanx]")
+	input := substring(input, end:4)
 }
 
 input_filter_3 := {
@@ -65,7 +65,7 @@ generation_filter := {
 }
 
 background_filter := {
-	(if card.type_text == "s" then "spell" 
+	(if card.type_text == "s" or card.type_text == "ds" then "spell"
 	else if card.type_text == "a" then "abyss"
 	else if card.type_text == "t" then "tamaseed"
 	else if card.type_text == "ts" then "tamaseed_shinkarise"
@@ -82,7 +82,16 @@ type_filter := {
 		else if card.type_text == "cg" then "crossgeartype"
 		else if card.type_text == "pcg" then "psychic_crossgeartype"
 		else if card.type_text == "se" then "starevotype"
-		else if card.type_text == "pe" then "psychic_evotype") + "_" + card.symbol_text + ".png"
+		else if card.type_text == "pe" then "psychic_evotype"
+		else if card.type_text == "pc" then "psychic_creaturetype"
+		else if card.type_text == "pcgn" then "gneo_psychic_creaturetype"
+		else if card.type_text == "dc" then "duelmate_creaturetype"
+		else if card.type_text == "dcs" then "duelmate_super_creaturetype"
+		else if card.type_text == "d" then "duelisttype"
+		else if card.type_text == "ds" then "duelmate_spelltype"
+		else if card.type_text == "cgn" then "gneo_creaturetype"
+		else if card.type_text == "cgx" then "galaxy_castletype"
+		else if card.type_text == "drc" then "dream_creaturetype") + "_" + card.symbol_text + ".png"
 }
 
 power_filter := {

@@ -1,0 +1,6 @@
+# Scratch / working directories (kept locally, never committed)
+temp/
+mse_out/
+
+# Bundled docs not part of the MSE data
+CLAUDE.md

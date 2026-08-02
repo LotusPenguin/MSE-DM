@@ -161,7 +161,7 @@ card style:
 		width: 1489
 		render style: image
 		z index: 4
-		visible: script: if card.type_text == "d" then false else true
+		visible: script: if card.type_text == "dc" or card.type_text == "dcs" or card.type_text == "ds" or card.type_text == "pc" or card.type_text == "pe" or card.type_text == "pcg" or card.type_text == "pcgn" then false else true
 		choice images:
 			symbol: script: symbol_filter(value)
 
@@ -171,7 +171,7 @@ card style:
 		height: 2080
 		width: 1489
 		render style: image
-		visible: script: if card.civspell_text == "1" and card.type_text == "s" then true
+		visible: script: if card.civspell_text == "1" and (card.type_text == "s" or card.type_text == "ds") then true
 		z index: 3
 		choice images:
 			civspell: script: civspell_filter(value)

@@ -8,6 +8,14 @@ symbol:
 	image: indent.png
 
 symbol:
+	code: Space Charge
+	image: Space Charge.png
+
+symbol:
+	code: Shield Go
+	image: Shield Go.png
+
+symbol:
 	code: Tap.png
 	image: Tap.png
 
